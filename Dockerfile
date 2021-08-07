@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3
 LABEL author="wyozi <wyozi@github.com>"
 
 LABEL "com.github.actions.name"="Download GitHub Release Asset"
